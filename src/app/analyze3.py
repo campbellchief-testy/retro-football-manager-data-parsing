@@ -13,9 +13,6 @@ start, end, blob = next(r for r in runs if "Diamond" in r[2])
 
 def split_names(s: str):
     # split when an Uppercase follows a lowercase (CamelCase boundary). 
-    print("here")
-    luke = ""
-    robbie = []
     parts = []
     cur = s[0]
     for i, ch in enumerate(s[1:], 1):
