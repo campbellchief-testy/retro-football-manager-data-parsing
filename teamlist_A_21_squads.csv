@@ -1,0 +1,57 @@
+team_index,team_name,p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11,p12,p13,p14,p15,p16,p17,p18,p19,p20,p21
+8,Sporting Lisbon,Br'hurst,Pinilla,Lemajic,Valckx,Torres,Peixe,Nelson,Sousa,Capucho,Balakov,Figo,Pachecho,Cadete,Cherbakov,Yordanov,Poejo,Vujacic,Juskowiak,Jorge,Costinha,Leal
+9,Vitesse Arnhem,Renato,Van,D'Gouw,Straal,Vermeulen,Bos,Sturing,Laamers,Loeffen,Cocu,Lataheru,Helder,Gillhaus,V,De,Looi,Simons,Korsten,Larossi,Pothuizen,Kemming
+10,Marseilles,Rutten,Roelofsen,Hesp,Barthez,Boli,Prunier,Di,Meco,Durand,Dutuel,Angloma,Deschamps,Boghossian,Voeller,Anderson,Fugier,Stojkovic,Thomas,Casoni,Barros,Henry
+11,AIK Stockholm,Videau,Futre,Jambay,Hedman,Sundgren,Larsson,Kindlund,KNordin,Y'tushenko,Johansson,Simpson,Lidman,Bergstrand,Mjallby,Lagerlof,Nilden,Hallstrom,Gallo,Borgqvist,L'Abbe,Andersson
+12,R S Belgrade,Amundsen,Milojevic,Stojkovski,Vasiljevic,Vidakovic,Djorovic,Kristic,Stankovic,Petkovic,Maslovar,Drobnjak,Ivic,Radmanovic,Stefanovic,Lesnjak,Bozovic,Adzic,Djorovic,Simeunovic,Tosic,Brankovic
+13,Rangers,McGregor,Weir,Boughera,Papac,Broadfoot,Ferguson,Adam,Davis,Beasley,Novo,Cousin,Webster,Fleck,Thomson,Dailly,Boyd,Whittaker,Alexander,Moore,Redpath,Taglial'la
+14,Napoli,Nela,Cannavaro,Francini,Ferrara,Tarantino,Thern,Bordin,Pecchia,Fonseca,Buso,Policano,Pari,Corradini,Luzardi,Lerda,Grossi,Di,Fusco,De,Rosa,Scarlato
+15,Kaiserslautern,Ehrmann,Kadlec,Funkel,Ritter,Lusch,Roos,Brehme,Wagner,Sforza,Kuntz,Fuchs,Haber,Lutz,Goldbaek,Erikkson,Marin,Hengen,Reitmeir,Degen,Dittgen,De
+16,Anderlecht,Wilde,Albert,De,Wolf,Crasson,Versavel,Walem,Zetterberg,Boffin,Bosman,Degryse,Nilis,Rutjes,Haagdoren,Van,Baekel,Emmers,Preko,Musonda,Maes,Van
+17,Manchester Utd,Baekel,Nwanu,Howard,Ferdinand,Brown,Heinze,Neville,Carrick,Scholes,Giggs,Ronaldo,Rooney,V,Nis'rooy,Neville,Smith,Miller,O'Shea,Saha,Bellion,Carroll
+18,B Leverkusen,Kleberson,Pringle,Vollborn,Foda,Woerns,Fischer,Schuster,Happe,Hapal,Lupescu,Sergio,Kirsten,Thom,Kree,Scholz,Nehl,Melzig,Nowotny,Tolkmitt,Heinen,Becker
+19,Steau Bucharest,Vollmer,Stingaciu,Panait,Dobos,Parvu,Prodan,Panduru,Stan,Galca,Dumitrescu,Lacatus,Ion,Filipescu,Ilie,Iftodi,Tufan,Vladoiu,Bucur,Gherasim,Safta,Csik
+20,Silkeborg,Kjaer,Melvang,Laursen,Kastbjerg,Bruun,Larsen,Sorensen,Bordingard,Sommer,Reese,Fernandez,Moldrup,Hansen,Knudsen,Bech,Fredriksen,Zivkovic,Jensen,Duus,Erfurt,Casillas
+21,Real Madrid,Salgado,Woodgate,Carlos,Samuel,Helguera,Zidane,Figo,M,Guti,Raul,Owen,Celades,Solari,Beckham,Bravo,Ronaldo,Pavon,Sanchez,Neja,Jimenez,Curci
+22,AS Roma,Panucci,Mexes,Sartor,De,Rossi,Dacourt,Tommasi,Perrota,D'Agostini,Totti,Montella,Aquilani,De,Martino,Mancini,Ferrari,Cassano,Virga,Zotti,Delvecchio,Statuto
+23,P St Germain,Lama,Sassus,Colleter,Roche,Ricardo,Valdo,Le,Guen,Rai,Guerin,Weah,Ginola,Reynaud,Bravo,Fournier,Cobos,Gravelaine,Llacer,Borrelli,Calderaro,Denis
+24,FK Austria,Wohlfahrt,Pfeffer,Aigner,Schmid,Zsak,S'erlioglu,Floegel,Stoeger,Narbekovas,Ogris,Fridrikas,Kogler,Hasenhuttl,Prosenik,Kauz,Puerk,Kereszturi,Unger,Orie,Zechner,Cherchesov
+25,Spartak Moscow,Mamedov,Onopko,Ivanov,Ledyakhov,Chernyshov,Pyatnitski,Tsymbalar,Karpin,Pisarev,Beshastnyk,Nikiforov,Popov,Gashkin,Khlestov,Radchenko,Chudin,Stauce,Pogodin,Popovich,Pagliuca,Sacchetti
+26,Sampdoria,Vierchowod,Rossi,Mannini,Evani,Jugovic,Platt,Lombardo,Gullit,Mancini,Invernizzi,Bertarelli,Salsano,Serena,Bellucci,Ferri,Nuciari,Maspero,Garzilli,Banks,McKenna,Berra
+27,Hearts,Wallace,Neilson,Stewart,Paz'elos,Cesnauskis,Mikuluaus,Vas'cus,Elliott,West,Burns,Underhill,Graham,Robb,Goncalves,McMillan,Kennedy,Fraser,Buffon,Birindelli,Ferrara,Iuliano
+28,Juventus,Legro'tale,Montero,Appiah,Nedved,Cam'nese,Emerson,Ibraham'vc,Thuram,Del,Piero,Zambrotta,Cannavaro,Trezeguet,Zebina,Chimenti,Blasi,Benetti,Kahn,Bilec,Reich,Schuster
+29,Karlsruhe,Neustadter,Wittwer,Bonan,Schutterle,Bender,Kiryakov,Schmitt,Rolff,Shmarov,Metz,Nowotny,Carl,Schmidt,Walter,Klinge,Krieg,Stojic,N'Gombo,Olsen,Foguenne,Hueben
+30,Seraing,Isaias,Karagianis,Teppers,Da,Silva,Lukaku,Wamberto,Debuschere,Varga,Olivieri,Doll,Lawaree,Swerdt'ges,Sironval,Thairet,De,Graef,Ananiev,Markovski,Babunski,Dochev
+31,C.S.K.A Sofia,Machev,Koilov,Kirov,Tanev,Goranov,Nankov,Andonov,Zafirov,Iskrenov,Deanov,Yanchev,Ciric,Radukanov,Petkov,Ilarionov,Marashliev,V,Breuklen,V,Der,Gaag
+32,PSV Eindhoven,V,Tiggelen,Popescu,Van,Mol,Linskins,Kieft,Koeman,Numan,Hoekstra,Lamptey,Van,Aerle,Pauwe,Ingesson,Heintze,V,Ankeren,Ellerman,De,Ron
+33,Ajax,Verhagen,Samuel,Lobont,Trabelsi,Heitinga,Escude,Maxwell,Galasek,Rosales,Pienaar,V,D,Vaart,Soataers,Obodai,Vermahlen,O'Brien,De,Jong,Anastasiou,Snijder
+34,Celtic,Sonck,Maarten,De,Ridder,Kreek,Boruc,McManus,Caldwell,Naylor,Wilson,Donati,Brown,Nakamura,McGeady,V,Hess'lnk,McDonald,Hartley,Robson,Sno,Kennedy
+35,Benfica,Samaras,Hinkel,Brown,O'Neill,Smith,Neno,Xavier,Helder,Veloso,Mozer,Kulkov,Schwarz,Costa,Pinto,Isaias,Ailton,Silva,Yuran,Paneira,William,Rui
+36,Lazio,Aguas,Alfonso,Silvino,Brito,Hernani,Marcegiani,Cravero,Negro,Bergodi,Bonomi,Di,Matteo,Winter,Gascoigne,Fuser,Boksic,Signori,Favalli,Rambaudi,Colucci,Bacci
+37,Auxerre,Casiraghi,Nesta,Orsi,Di,Vaio,De,Sio,Martini,Verlaat,Silvestre,Goma,Mahe,Martins,Saib,Guerreiro,Cocard,Baticle,Vahirua,Rabarivony,Henna,Violeau
+38,AC Milan,Ciechelski,Laslandes,West,Charbonier,Vignola,Deniaud,Fiori,Helveg,Kaladze,Maldini,Nesta,Gattuso,Rui,Costa,Seedorf,Pirlo,Shevchenko,Inzaghi,Ambrosini,Serginho,Dalla
+39,Sparta Prague,Bona,Simic,Tomasson,Junior,Dida,Brocchi,Polonia,Kouba,Hornak,Novotny,Chovanec,Votava,Gunda,Nedved,Frydek,Svoboda,Siegl,Kozlej,Vonasek,Budka,Mistr
+40,Aus. Salzburg,Sopko,Kostelnik,Horvath,Sova,Krbecek,Kokoska,Konrad,Reisinger,Furstaller,Weber,Garger,Artner,Huetter,Feirsinger,Stadler,Jurcevic,Sabitzer,Lainer,Amerhauser,Muzek,Winklhofer
+41,Honved Kispest,Pf'berger,Marquino,Ilsanker,Lipa,Emich,Brockh'ser,Banfi,Csabi,Plokai,Stefanov,Csehi,Pisont,Forrai,Illes,Vincze,Hamar,Matyus,Duro,Halmai,Szabados,Salloi
+42,Shamrock Rovers,Ezeugo,Petry,Mezey,Nyilasi,O'Neill,Brazil,Burke,Eccles,Mullen,Toal,Byrne,McGrath,Osam,Geoghegan,Eviston,Cashin,Bacon,O'Toole,Dolan,Cullen,Berry
+43,Grevenmacher,Redmond,O'Connell,Moonie,Konsbrueck,Raach,Petry,Gruen,Kloot,Thome,Thoemmes,Kempny,Wilbois,Silva,Horn,Haas,Chaussy,Reuland,Stronck,Marchione,Jochem,Courtois
+44,Gornik Zabrze,Steffen,Metzger,Klak,Hajto,Jegor,Staniek,Waldoch,Agafon,Kubik,Kosela,Brzeczek,Grembocki,Bal'zynski,Dziuk,Staniek,Kocyba,Brzoza,Kraus,Bodzioch,Beben,Wagner
+45,Sion,Jaworski,Lehmann,Fournier,Herr,Geiger,Quentin,Hottiger,Milton,Piffaretti,Assis,Tulio,Bonvin,Clausen,Carlos,Wickey,Oggier,Lonfat,Schuler,Schurmann,Reitmaier,Imhof
+46,Uni Craiova,Arcanu,Bita,Papura,Mogosanu,Cojocaru,Cristescu,Pigulea,Stinga,Calin,Gane,Crioveanu,Olaru,Jianu,Suciu,Ganea,Neagoe,Sburlea,Lung,Moisescu,Dodu,Nicolaou
+47,Apollon,Andrellis,Christofi,Ioannou,Sofocleous,Pittas,Spoljaric,Iosifides,Charal'bus,Scepovic,Krcmarevic,Iosofides,Christofi,Yangudakis,Juras,Hadjil'zou,Hajic'ndis,Christofi,Xicuroppas,Tsingis,Kapplani,Alliu
+48,Teuta Durres,Abazi,Xhakoni,Furrxhi,Dashi,Mehmeti,Qendro,Kapedani,Zalla,Koca,Qendro,Kuci,Fraholli,Vila,Bushi,Kalaja,Shtama,Canaku,Isufi,Grodas,Bjarmann,Bergdolmo
+49,Lillestrom,Schiller,Bjerkeland,Gulb'ndsen,Karlsson,Pedersen,Bohinen,McManus,Mjelde,Buer,Kallstad,Dallokken,Berntsen,Gulb'ndsen,Sognnaes,Knudsen,Ibsen,Hamsun,Muscat,Camilleri,Woods,Attard
+50,Hibernians,Docherty,Mifsud,Scerri,Spiteri,Carabott,Lawrence,Zacchau,Attard,Farrugia,Camilleri,Franc'anza,Taliana,Abela,Farrugia,Mifsud,Pareta,Niemi,Europaeus,Helin,Onttonen,Hyrylainen
+51,HJK Helsinki,Yla-Jusila,Gronlund,Heinola,Murtomaki,Vanhala,Tauriainen,Rantanen,Lehkosuo,Wallden,Vuorela,Takatalo,Suokon-tio,Palmroos,Saarinen,Jenei,Engin,Mujdat,Emre,Wagenhaus,Ogechukwu,Oguz
+52,Fenerbahce,Mecnur,Nielsen,Tayfur,Ilker,Bulent,Hotic,Kemalettin,Hakan,Nuri,Aykut,Semih,Metin,Cemre,Turan,Finbogason,Kostic,Adolfsson,Gislason,Haraldsson,Jonsson,Thordarson
+53,IA Akranes,Hognason,Ingolfsson,Gudjonsson,Bibercic,Haraldsson,Hinriksson,Sig'einson,Hervarsson,Reynisson,Sigur'sson,Gudmundson,Theodorson,Jonasson,Wandzik,Apost'akis,Kalitzakis,Mavridis,Maragos,Yoryadis,Hrist'olou,Antoniou
+54,Panathinaikos,Donis,Warzycha,Saravakos,Markos,Borelli,Ouzounidis,Kapouranis,Franzeskos,Nioblias,Abaditakis,Yotsas,Nikoplidis,Wozniak,Chojnacki,Pawlak,Bendkowski,Leszynski,Ambrozej,Wieszczyki,Krysiak,Podolski
+55,LKS Lodz,Cebula,Pluciennik,Nowacki,Kaczowka,Dziedzic,Lenart,Soszynski,Kosciuk,Gawronski,Lapczynski,Dob'wolski,Baia,Aloisio,Couto,Jorge,Joao,Pinto,Secretario,Andre,Semedo,Timofte
+56,Porto,Kostadinov,Drulovic,Magalhaes,Domingos,Santos,Carlos,Toni,Costa,Candido,Filipe,Tueba,Atmatzidis,Vlahos,Karayannis,Manolas,Sab'dzovic,Agoroyanis,Kassapis,Saveski,Tsartas,Dimit'adis
+57,AEK Athens,Sliskovic,Mitropulos,Borbokis,P'dopoulos,Kopitsis,Alexandris,Koutoulas,Karayannis,Aristos,Kristos,Pascolo,Djurovski,Schepull,Suathier,Aeby,Ohrel,Sinval,Margarini,Barberis,Renato,Neuville
+58,Servette,Barea,Velletri,Prinz,Egli,Grassi,Rot'buhler,Marguairat,Kuffer,Meier,Panayiotou,Kastanas,Panayi,Stavrou,Panayiotou,Charal'bus,Ketsbaia,Tsangaris,Pounnas,Gogic,Melan'itis,Sapuric
+59,Anorthosis,Andreou,Ioannou,Kotsonis,Rizos,Chysos'mou,Christou,Malekkos,Theodorou,Kerremans,Rasquin,Janevski,Gerard,Van,Meir,Moury,Mommens,Balog,Brogno,Malbasa,Missemisse,Bukran
+60,Charleroi,Remy,Jacquemart,Silvagni,Casto,Fasano,Gulyas,V,Ankeren,De,Jaeger,Eriksson,Lind,Hansson,Vaatovaara,Blohm,Bergort,Rodlund,Jansson,Andersson,Andersson,Kindvall
+61,Norrkoping,Marovic,Hansson,Kuznetsov,Kalen,Hellstrom,Samuelsson,Jonander,Norrby,Wisen,Koch,Vanek,Wilhelm,Ferron,Zaritski,Peters,Goergen,Holtz,Scholten,Krahen,Krings,Weis
+62,Avenir Beggen,Marchal,Jentgen,Moreira,Lopes,Meyers,Felten,Stange,Urbing,Friedel,Amoruso,Short,Neill,E,Johannsn,Flitcroft,Tugay,Gamst,P'sn,Stead,Dickov,Jansen
+63,Blackburn Rvrs,Reid,Gresko,Ferguson,Matteo,Gallagher,Todd,Fallentin,Pedersen,Pettersen,Molnar,Moravec,Rupec,Schulzc,Tomko,Obsitnik,Prokop,Sluka,Solar,Medved,Vasik,Gregusca
