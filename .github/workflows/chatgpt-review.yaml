@@ -1,20 +1,19 @@
-on:
- pull_request:
-   types: [opened, synchronize]
-jobs:
- code_review_job:
-   runs-on: ubuntu-latest
-   name: ChatGPT Code Review
-   steps:
-     - name: GenAI Code Review
-       uses: cirolini/genai-code-review@v2
-       with:
-         openai_api_key: ${{ secrets.openai_api_key }}
-         github_token: ${{ secrets.GITHUB_TOKEN }}
-         github_pr_id: ${{ github.event.number }}
-         openai_model: "gpt-3.5-turbo" # optional
-         openai_temperature: 0.5 # optional
-         openai_max_tokens: 2048 # optional
-         mode: files # files or patch
-         language: en # optional, default is 'en'
-         custom_prompt: "" # optional
+- uses: actions/checkout@v4
+
+- name: Install deps
+  run: |
+    python -m pip install --upgrade pip
+    pip install openai requests
+
+- name: Review PR
+  env:
+    OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    GITHUB_PR_ID: ${{ github.event.number }}
+    OPENAI_MODEL: gpt-4o-mini
+    OPENAI_TEMPERATURE: "0.2"
+    OPENAI_MAX_TOKENS: "1200"
+    MODE: patch
+    LANGUAGE: en
+    CUSTOM_PROMPT: ""
+  run: python review.py
